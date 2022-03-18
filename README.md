@@ -1,2 +1,2 @@
 # Sports-Club-System
-A Club management system project that provides and manages various Club activities and generaate Reports
+A Club management system project that provides and manages various Club activities and generate Reports
